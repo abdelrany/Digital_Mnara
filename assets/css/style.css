@@ -3603,6 +3603,7 @@ label {
 }
 
 .cs-site_header.cs-style1 .cs-icon_btn {
+  
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
